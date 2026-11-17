@@ -1,6 +1,6 @@
 {
   "name": "MadGrayOLED",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Native 16-level SSD1327 grayscale adapter",
   "frameworks": "arduino",
   "platforms": "*",
